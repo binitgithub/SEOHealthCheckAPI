@@ -1,0 +1,6 @@
+@SEOHealthCheckAPI_HostAddress = http://localhost:5268
+
+GET {{SEOHealthCheckAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
